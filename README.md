@@ -110,6 +110,7 @@ class Me:
 
 🎵 Music is my background process — always running  
 🎮 Gaming teaches me systems thinking (that's my excuse)  
+📚 I read blogs, papers, and the occasional novel  
 🛠️ My hobby is starting side projects (finishing them is optional)
 
 ---
