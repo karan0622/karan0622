@@ -26,16 +26,16 @@ class Me:
     location   = "Greater Noida, India"
     
     currently  = [
-        "📚 Studying CS in college",
-        "🛠️ Building side projects that (sometimes) work",
-        "🎯 Hunting for internship opportunities"
+        "Studying CS in college",
+        "Building side projects that (sometimes) work",
+        "Hunting for internship opportunities"
     ]
     
     interests  = ["AI", "ML", "GenAI", "Web Dev", "Music", "Gaming"]
     
     ask_me_about = ["Python", "LLMs", "Building cool stuff", "Life advice (jk)"]
     
-    fun_fact   = "I debug code at 2am and call it 'productive night'"
+    fun_fact   = "I debug code at 2am and call it productive night"
 ```
 
 ---
